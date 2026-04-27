@@ -1,5 +1,7 @@
 import os
 import requests
+import random
+import time
 from typing import List, Dict
 from google import genai
 
